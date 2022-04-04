@@ -2,7 +2,7 @@
     
     - Sou Graduado em Análise e Desenvolvimento de Sistemas
     - Atualmente trabalho como Analista de Suporte de Sistemas
-    - Gosto de interagir com as pessoas, gerindo equipes.
+    - Gosto de interagir com as pessoas, gerindo equipes utilizando metodologias SCRUM e Kanban.
     
    ## Contatos
    
