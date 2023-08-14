@@ -29,7 +29,9 @@
   <img align="center" alt="Gitlab" height="30" width="40" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"/> &#160;
   <img align="center" alt="Html" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/> &#160;
   <img align="center" alt="Css" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/> &#160;
+  <img align="center" alt="Monday" height="30" width="40" src="https://www.vectorlogo.zone/logos/monday/monday-ar21.svg"/> &#160;
   <img align="center" alt="JavaScript" height="30" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/> &#160;
+  
 </div>
   
  
