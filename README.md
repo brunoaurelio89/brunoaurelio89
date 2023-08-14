@@ -1,7 +1,8 @@
   ## Olá, sou o Bruno Aurelio.
     
-    - Sou Graduado em Análise e Desenvolvimento de Sistemas
-    - Atualmente trabalho como Analista de Suporte de Sistemas
+    - Sou Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista - UNIP
+    - Atualmente trabalho como Analista de Testes (QA)
+    - Já atuei como Dev Jr. e Analista de Suporte N2
     - Gosto de interagir com as pessoas, gerindo equipes utilizando metodologias SCRUM e Kanban.
     
    ## Contatos
@@ -17,9 +18,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaurelio89&layout=compact&langs_count=7&theme=onedark"/>
  </div>
   
-  ## Tecnologias que estou aprendendo
+  ## Conhecimentos técnicos
 
-  > Git | Gitlab | Azure DevOps | Trello | HTML5 | CSS3 | Javascript 
+  > Git | Gitlab | Azure Devops | Trello | Monday.com | HTML5 | CSS3 | Javascript | ASP Clássico 
 <div style="display: inline_block"><br>
   &emsp;
   <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> &#160;
