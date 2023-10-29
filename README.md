@@ -1,6 +1,7 @@
   ## Olá, sou o Bruno Aurelio.
     
     - Sou Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista - UNIP
+    - Mentoria em Testes de Software - Júlio de Lima
     - Atualmente trabalho como Analista de Testes (QA)
     - Já atuei como Dev Jr. e Analista de Suporte N2
     - Gosto de interagir com as pessoas, gerindo equipes utilizando metodologias SCRUM e Kanban.
@@ -8,7 +9,7 @@
    ## Contatos
    
    <a href = "mailto:baurelio.rodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunoaurelio89" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/brunoaurelio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
   ## 
   
@@ -20,9 +21,13 @@
   
   ## Conhecimentos técnicos
 
-  > Git | Gitlab | Azure Devops | Trello | Monday.com | HTML5 | CSS3 | Javascript | ASP Clássico 
+  > | Selenium | Java | Junit | Rest Assured | Git | Gitlab | Azure Devops | Trello | Monday.com | HTML5 | CSS3 | Javascript | ASP Clássico 
 <div style="display: inline_block"><br>
   &emsp;
+  
+  <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-vertical.svg"> &#160;
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg"> &#160;
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg"> &#160;
   <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> &#160;
   <img align="center" alt="Gitlab" height="30" width="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg"/> &#160;
   <img align="center" alt="Gitlab" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/> &#160;
