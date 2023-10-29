@@ -25,17 +25,17 @@
 <div style="display: inline_block"><br>
   &emsp;
   
-  <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-vertical.svg"> &#160;
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg"> &#160;
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg"> &#160;
+  <img align="center" alt="Java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> &#160;
+  <img align="center" alt="Selenium" height="30" width="40" src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg"> &#160;
   <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> &#160;
   <img align="center" alt="Gitlab" height="30" width="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg"/> &#160;
-  <img align="center" alt="Gitlab" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/> &#160;
-  <img align="center" alt="Gitlab" height="30" width="40" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"/> &#160;
+  <img align="center" alt="Azure" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/> &#160;
+  <img align="center" alt="Trello" height="30" width="40" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"/> &#160;
   <img align="center" alt="Html" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/> &#160;
   <img align="center" alt="Css" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/> &#160;
   <img align="center" alt="Monday" height="30" width="40" src="https://www.vectorlogo.zone/logos/monday/monday-ar21.svg"/> &#160;
   <img align="center" alt="JavaScript" height="30" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/> &#160;
+  
   
 </div>
   
