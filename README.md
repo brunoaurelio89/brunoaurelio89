@@ -1,6 +1,6 @@
   ## Olá, sou o Bruno Aurelio.
   
-    - Pós Graduação em Automação de Testes e Qualidade de Software - Júlio de Lima - Faculdades Vincit
+    - Pós Graduado em Automação de Testes e Qualidade de Software - Júlio de Lima - Faculdades Vincit
     - Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista - UNIP
     - Mentoria em Testes de Software - Júlio de Lima
     - Atualmente trabalho como Analista de Testes (QA)
