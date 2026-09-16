@@ -3,16 +3,7 @@
     - Pós Graduado em Automação de Testes e Qualidade de Software - Júlio de Lima - Faculdades Vincit
     - Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista - UNIP
     - Mentoria em Testes de Software - Júlio de Lima
-    - Atualmente trabalho como Analista de Testes (QA)
-    - Já atuei como Dev Jr. e Analista de Suporte N2
-    
-  ## 
-  
-  <div align="center">
-  <a href="https://github.com/brunoaurelio89">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoaurelio89&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaurelio89&layout=compact&langs_count=7&theme=onedark"/>
- </div>
+    - Atualmente trabalho como Analista de Testes (QA)  
   
   ## Conhecimentos técnicos
   
